@@ -1,3 +1,5 @@
+
+
 /*
 Author: W3layout
 Author URL: http://w3layouts.com
@@ -674,7 +676,7 @@ div#page-wrapper {
 .custom-nav > li > a:hover,
 .custom-nav > li > a:active {
     background-color: #353f4f;
-    color:#8BC34A;
+    color:#0040ff;
     border-radius: 0;
     -webkit-border-radius: 0;
 }
@@ -958,7 +960,7 @@ ul.nav li a span {
 -----------------------------*/
 
 .header-section {
-    background:#FFF;
+	background: #000066;
     box-shadow: 1px 0 3px rgba(0,0,0,.15);
     -webkit-box-shadow: 1px 0 3px rgba(0,0,0,.15);
     -moz-box-shadow: 1px 0 3px rgba(0,0,0,.15);
@@ -981,7 +983,7 @@ ul.nav li a span {
     cursor: pointer;
     float: left;
     color: #fff;
-    background: #F44336;
+    background: #6666ff;
     border: none;
     border-radius: 100%;
     -moz-transition: all 0.2s ease-out 0s;
@@ -1052,6 +1054,7 @@ ul.nav li a span {
 }
 .sticky-header .menu-right {
     margin-right: 0;
+    
 }
 .sticky-header.left-side-collapsed .header-section {
     left: 52px;
@@ -1777,14 +1780,14 @@ ul.dropdown-menu.drp-mnu li a i {
 }
 .user-name p{
 	font-size:14px;
-	color:#F44336;
+	color:#fff;
 	line-height:1em;
 	font-weight:700;
 }
 .user-name p span{
 	font-size:10px;
 	font-style:italic;
-	color:#424f63;
+	color:#fff;
 	font-weight:normal;
 }
 /**** icon dropdown ******/
@@ -3229,7 +3232,7 @@ span.badge {
 	padding: 2px 0 0;
 }
 span.blue{
-	background-color:#00aced;
+	background-color:#0040ff;
 }
 span.red{
 	background-color:#ef553a;
